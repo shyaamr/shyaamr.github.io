@@ -9,6 +9,10 @@ h3 {
   font-family: "Roboto"
 }
 
+.rbt {
+  font-family: "Roboto"
+}
+
 button {
   background-color: #4CAF50; /* Green */
   border: none;
@@ -26,4 +30,8 @@ button {
 
 body {
   background-color: lightblue;
+}
+
+.mentions {
+  background-color: orange;
 }
